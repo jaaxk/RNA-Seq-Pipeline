@@ -20,3 +20,7 @@ The `my_rnaseq_pipe.sh` script downloads an example RNA-Seq dataset from the stu
 4. Isoform counts with RSEM
 
 These isoform counts can be used downstream with [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to find differential expression or other analyses
+
+## Provided
+Some of the outputs from each of these tools is given in respective directories for reference
+Larger fastq and BAM files are not included
