@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR20736632_1	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736632_1_fastqc.zip
+FastQC	all_sections	SRR20736633_2	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736633_2_fastqc.zip
+FastQC	all_sections	SRR20736635_2	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736635_2_fastqc.zip
+FastQC	all_sections	SRR20736634_1	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736634_1_fastqc.zip
+FastQC	all_sections	SRR20736633_1	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736633_1_fastqc.zip
+FastQC	all_sections	SRR20736630_2	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736630_2_fastqc.zip
+FastQC	all_sections	SRR20736634_2	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736634_2_fastqc.zip
+FastQC	all_sections	SRR20736632_2	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736632_2_fastqc.zip
+FastQC	all_sections	SRR20736631_1	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736631_1_fastqc.zip
+FastQC	all_sections	SRR20736631_2	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736631_2_fastqc.zip
+FastQC	all_sections	SRR20736635_1	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736635_1_fastqc.zip
+FastQC	all_sections	SRR20736630_1	/gpfs/scratch/jvaska/BMI511/RNASeqPipeline/my_rnaseq_out/fastqc/SRR20736630_1_fastqc.zip

@@ -1,0 +1,1 @@
+/cm/local/apps/slurm/var/spool/job972300/slurm_script: line 8: 1312996 Segmentation fault      (core dumped) STAR --runThreadN 96 --genomeDir /gpfs/scratch/jvaska/BMI511/genome/STAR_hg38 --readFilesIn ../fastq_files/*_1.fastq ../fastq_files/*_2.fastq --outFileNamePrefix ./star/aligned_ --outSAMtype BAM SortedByCoordinate
