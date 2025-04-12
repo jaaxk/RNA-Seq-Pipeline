@@ -1,6 +1,8 @@
+fastq/*.fastq
 fastqc/*.zip
 star/*.bam
 rsem/*.bam
 rsem/*.readdepth
 rsem/*.stat
 rsem/*.results
+fastp/*.fastq
